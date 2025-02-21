@@ -1,87 +1,116 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css">
 
-<title>Cuiabano Burguer</title>
+    <title>Cuiabano Burguer</title>
 </head>
 <body>
 <!-- HEADER -->
-<header>
+    <header>
     <nav id="navbar">
-    <a href="#">
+        <a href="#">
         <i class="fa-solid fa-burger" id="nav_logo">
-        Cuiabano Burguer
+            Cuiabano Burguer
         </i>
-    </a>
+        </a>
     <!-- Menu de navegação -->
-    <ul id="nav_list">
+        <ul id="nav_list">
         <li class="nav-item active">
-        <a href="#">Início</a>
+            <a href="#">Início</a>
         </li>
         <li class="nav-item">
-        <a href="#">Cardápio</a>
+            <a href="#">Cardápio</a>
         </li>
         <li class="nav-item">
-        <a href="#">Avaliações</a>
+            <a href="#">Avaliações</a>
         </li>
-    </ul>
-    <button class="btn-default">
+        </ul>
+        <button class="btn-default">
         Peça aqui
-    </button>
+        </button>
 
     <!-- Menu mobile -->
-    <button id="mobile_btn">
+        <button id="mobile_btn">
         <i class="fa-solid fa-bars"></i>
-    </button>
+        </button>
     </nav>
     <!-- Menu para dispositivos moveis -->
     <div id="mobile_menu">
-    <ul id="mobile_nav_list">
+        <ul id="mobile_nav_list">
         <li class="nav-item">
-        <a href="#">Início</a>
+            <a href="#">Início</a>
         </li>
         <li class="nav-item">
-        <a href="#">Cardápio</a>
+            <a href="#">Cardápio</a>
         </li>
         <li class="nav-item">
-        <a href="#">Avaliações</a>
+            <a href="#">Avaliações</a>
         </li>
-    </ul>
-    <button class="btn-default">
+        </ul>
+        <button class="btn-default">
         Peça aqui
-    </button>
+        </button>
     </div>
-</header>
+    </header>
 <!-- Conteúdo principal da página web -->
-<main id="content">
+    <main id="content">
     <section id="home">
-    <div class="shape"></div>
-    <div id="cta">
+        <div class="shape"></div>
+        <div id="cta">
         <h1 class="title">
-        O sabor de <span>Cuiabá</span> em cada mordida.
+            O sabor de <span>Cuiabá</span> em cada mordida.
         </h1>
         <p class="description">
-        A melhor desculpa para sair da dieta!
+            A melhor desculpa para sair da dieta!
         </p>
         <div id="cta_buttons">
-        <a href="" class="btn-default">
+            <a href="" class="btn-default">
             Ver Cardápio
-        </a>
-        <a href="tel:+5565999999999" id="phone_button">
+            </a>
+            <a href="tel:+5565999999999" id="phone_button">
             <button class="btn-default">
-            <i class="fa-solid fa-phone"></i>
+                <i class="fa-solid fa-phone"></i>
             </button>
             (99) 9.9999-9999
-        </a>
+            </a>
         </div>
-    </div>
+<!-- Redes sociais -->
+        <div class="social-media-buttons">
+            <a 
+                href="https://api.whatsapp.com/send?phone=5565999999999&text=Quero%20fazer%20um%20pedido!" 
+                target="_blank" 
+                rel="noopener no-referrer"
+                >
+                <i class="fa-brands fa-whatsapp"></i>
+            </a>
+            <a 
+                href="https://www.instagram.com/_mig.sq/" 
+                target="_blank" 
+                rel="noopener no-referrer"
+                >
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+            <a 
+                href="#" 
+                target="_blank" 
+                rel="noopener no-referrer"
+                >
+                <i class="fa-brands fa-facebook"></i>
+            </a>
+        </div>
+        </div>
+        <!--banner do chef-->
+        <div>
+            <img src="images/baner-chefe.png" alt="O homem branco com barba e chapéu de chef segurando um hamburger em suas mãos">
+        </div>
     </section>
     </main>
 </body>
 </html>
+            
