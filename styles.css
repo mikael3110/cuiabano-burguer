@@ -11,10 +11,10 @@
 
     --color-neutral-0: #fff;
     --color-neutral-1: #333;
-    }
+}
 
-    /* Reset do CSS padrão dos navegadores */
-        * {
+/* Reset do CSS padrão dos navegadores */
+* {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
@@ -75,7 +75,7 @@ section {
     display: none;
 }
 
-    /* Home */
+/* Home */
 #home {
     display: flex;
     min-height: calc(100vh - 91px);
@@ -100,7 +100,7 @@ section {
 }
 
 #cta .description {
-    font-size: 1.2rem;
+    e: 1.2rem;
 }
 
 #cta_buttons {
@@ -194,7 +194,7 @@ section {
     box-shadow: 0px 0px 12px 8px rgba(144, 238, 144, 0.8);
 }
 
-    /* Section Menu */
+/* Section Menu */
 #menu {
     display: flex;
     flex-direction: column;
@@ -246,7 +246,7 @@ section {
     height: 70px;
     right: -10px;
     top: -10px;
-    border-radius: 0px 37.5px 0px 42.5px; 
+    border-radius: 0px 37.5px 0px 42.5px;
 }
 
 .burguer-description {
@@ -264,12 +264,12 @@ section {
     gap: 20px;
 }
 
-/*Testimonial*/
+/* Testimonials */
 #testimonials {
-    min-width: calc(100v - 91px);
+    min-width: calc(100vh - 91px);
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     gap: 48px;
 }
 
@@ -282,7 +282,7 @@ section {
     font-size: 2.5rem;
 }
 
-#testimonial_content {
+#testimonials_content {
     width: 50%;
 }
 
@@ -294,7 +294,7 @@ section {
     margin-top: 30px;
 }
 
-#feedback {
+.feedback {
     display: flex;
     align-items: center;
     gap: 20px;
@@ -316,7 +316,6 @@ section {
     justify-content: space-between;
 }
 
-.feedback-content p span {
+.feedback-content p span{
     color: var(--color-primary-6);
-
 }
