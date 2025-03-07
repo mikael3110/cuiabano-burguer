@@ -19,8 +19,8 @@
 
 <div align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000" alt="License">
-  <img src="https://img.shields.io/github/forks/mikael3110/cuiabano-burguer?label=forks&message=MIT&color=15C3D6&labelColor=000000" alt="Forks">
-  <img src="https://img.shields.io/github/stars/mikael3110/cuiabano-burguer?label=stars&message=MIT&color=15C3D6&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/forks/professor-wanderson-timoteo/cuiabano-burguer?label=forks&message=MIT&color=15C3D6&labelColor=000000" alt="Forks">
+  <img src="https://img.shields.io/github/stars/professor-wanderson-timoteo/cuiabano-burguer?label=stars&message=MIT&color=15C3D6&labelColor=000000" alt="Stars">
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 
 Landing page interativa desenvolvida para a hamburgueria **Cuiabano Burguer**, trazendo um design moderno e dinâmico para apresentar os produtos e serviços de forma atrativa.
 
-Acessar Site Cuiabano Burguer **[Clique aqui]()**
+Acessar Site Cuiabano Burguer **[Clique aqui](https://professor-wanderson-timoteo.github.io/cuiabano-burguer/)**
 
 <br>
 
@@ -103,7 +103,7 @@ http://127.0.0.1:5500/index.html
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/mikael3110/cuiabano-burguer/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/professor-wanderson-timoteo/cuiabano-burguer/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
@@ -124,11 +124,11 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 ## Autor
 
-<div align="center"> <img src="https://github.com/mikael3110.png" width="100px" height="100px" style="border-radius: 50%"/> 
+<div align="center"> <img src="https://github.com/professor-wanderson-timoteo.png" width="100px" height="100px" style="border-radius: 50%"/> 
 
 <br> 
 
-💡 **Desenvolvido por [Miguel Siqueira](https://github.com/mikael3110)** </div>
+💡 **Desenvolvido por [Wanderson Timóteo](https://github.com/professor-wanderson-timoteo)** </div>
 
 <br> 
 
